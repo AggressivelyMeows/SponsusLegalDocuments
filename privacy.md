@@ -1,17 +1,13 @@
-# Privacy Policy
-
-[["We" or "I", or Website or App name]] takes your privacy seriously. To better protect your privacy [["we" or "I"]] provide this privacy policy notice explaining the way your personal information is collected and used.
+Sponsus cares about user privacy so we have created this document to tell you what we store and how we use it.
 
 
-## Collection of Routine Information
+### Collection of Routine Information
 
-This [["website" or "app"]] track basic information about their [["visitors" or "users"]]. This information includes, but is not limited to, IP addresses, [["browser" or "app"]] details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+This website tracks basic information about their visitors. This information includes, but is not limited to, IP addresses, browser details, timestamps and referring pages. None of this information can personally identify specific visitors to this website. The information is tracked for routine administration and maintenance purposes.
 
-
-## Cookies
-
-Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
-
+::: primary
+TLDR: Sponsus tracks your IP and where you came from. **We respect Do Not Track.**
+:::
 
 ## Advertisement and Other Third Parties
 
