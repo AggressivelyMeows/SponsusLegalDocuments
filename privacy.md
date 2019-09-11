@@ -28,7 +28,7 @@ The internet is a scary place. Sponsus has industry-standard security methods in
 :::
 
 
-
+ 
 ## Changes To This Privacy Policy
 
 This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
