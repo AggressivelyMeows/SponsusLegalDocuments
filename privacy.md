@@ -18,10 +18,15 @@ Sponsus does not have advertisements. We do not sell our data to third parties f
 
 On Sponsus, there are links to external sites posted by both the staff and the creators. We are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from our own.
 
+::: primary
+Be careful with links posted by creators, these have not been checked so please practice common sense when clicking links.
+:::
 
 #### Security
 
 The security of your personal information is important to us, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+
+**No staff member from Sponsus will ever ask for your password, please report anyone asking for your password to our security email: security@sponsus.org**
 
 ::: primary
 The internet is a scary place. Sponsus has industry-standard security methods in place to stop attackers from accessing your private information. This warns you that even with our security, you can still be attacked via other methods such as Man In The Middle, you can read more here: https://www.globalsign.com/en/blog/what-is-a-man-in-the-middle-attack/.
